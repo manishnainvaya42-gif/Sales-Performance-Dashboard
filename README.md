@@ -120,3 +120,7 @@ This project demonstrates practical experience in:
 ## ⭐ Project Purpose
 
 This project is part of my **Data Analytics Portfolio** and demonstrates my ability to transform raw sales data into an interactive and visually meaningful business dashboard.
+
+## 📊 Dashboard Preview
+
+![Sales Performance Dashboard](dashboard_preview.png)
