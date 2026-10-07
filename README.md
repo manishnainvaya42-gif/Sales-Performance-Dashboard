@@ -56,7 +56,9 @@ All slicers are connected to the dashboard PivotTables and charts for dynamic an
 - Data Visualization
 - Dashboard Design
 - Business Reporting
+## 📥 Project File
 
+[Download Sales Performance Dashboard](Sales_Performance_Dashboard.xlsx)
 ---
 
 ## 📂 Dataset
